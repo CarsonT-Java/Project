@@ -4,9 +4,9 @@ public class Settings {
 
 	public static final boolean SERVER_DEBUG = false;
 
-	public static final String SERVER_NAME = "YanilleScape";
+	public static final String SERVER_NAME = "Blah Blah";
 
-	public static final String WELCOME_MESSAGE = "Welcome to YanilleScape.";
+	public static final String WELCOME_MESSAGE = "Welcome to blah blah.";
 
 	public static final String FORUMS = "";
 
