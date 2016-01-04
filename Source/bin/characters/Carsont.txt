@@ -1,0 +1,132 @@
+[ACCOUNT]
+character-username = Carsont
+character-password = juneauike2498
+
+[CHARACTER]
+character-height = 0
+character-posx = 2592
+character-posy = 3106
+character-rights = 3
+crystal-bow-shots = 0
+skull-timer = 0
+magic-book = 0
+special-amount = 10.0
+teleblock-length = 0
+autoRet = 0
+flagged = false
+pouch = 0	0	0	0
+slayerTask = 941
+taskAmount = 78
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	5698	1	
+character-equip = 4	-1	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	10
+character-look = 8	0
+character-look = 9	0
+character-look = 10	0
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	99	13085136
+character-skill = 1	99	13034436
+character-skill = 2	99	13034436
+character-skill = 3	99	13048418
+character-skill = 4	99	13034436
+character-skill = 5	99	13034436
+character-skill = 6	99	13034436
+character-skill = 7	99	13035696
+character-skill = 8	9	1125
+character-skill = 9	99	13034466
+character-skill = 10	99	13035086
+character-skill = 11	99	13044436
+character-skill = 12	1	0
+character-skill = 13	99	13048556
+character-skill = 14	99	13037999
+character-skill = 15	14	2242
+character-skill = 16	99	13034436
+character-skill = 17	99	13035196
+character-skill = 18	28	12000
+character-skill = 19	16	3085
+character-skill = 20	99	13034436
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	1276	1
+character-item = 1	996	2147483647
+
+[BANK]
+character-bank = 0	437	22
+character-bank = 1	1512	35
+character-bank = 2	1256	2
+character-bank = 3	996	133000
+character-bank = 4	1437	10
+character-bank = 5	557	22
+character-bank = 6	1352	1
+character-bank = 7	250	21
+character-bank = 8	360	23
+character-bank = 9	372	10
+character-bank = 10	53	15
+character-bank = 11	842	2
+character-bank = 12	1778	1
+character-bank = 13	947	1
+character-bank = 14	840	1
+character-bank = 15	7955	3
+character-bank = 16	114	1
+character-bank = 17	374	9
+character-bank = 18	591	1
+character-bank = 19	11695	1
+character-bank = 20	312	1
+character-bank = 21	5292	43
+character-bank = 22	5344	1
+character-bank = 23	5342	1
+character-bank = 24	5341	1
+character-bank = 25	439	2
+character-bank = 26	6333	2
+character-bank = 27	445	1
+character-bank = 28	443	1
+character-bank = 29	441	1
+character-bank = 30	200	5
+character-bank = 31	2350	2
+character-bank = 32	2352	1
+character-bank = 33	2354	1
+character-bank = 34	2358	2
+character-bank = 35	2356	2
+character-bank = 36	2360	2
+character-bank = 37	2362	2
+character-bank = 38	454	1
+character-bank = 39	342	1
+character-bank = 40	354	1
+character-bank = 41	364	1
+character-bank = 42	2364	2
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+
