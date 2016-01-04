@@ -6,7 +6,7 @@ public class Settings {
 
 	public static final String SERVER_NAME = "Blah Blah";
 
-	public static final String WELCOME_MESSAGE = "Welcome to blah blah.";
+	public static final String WELCOME_MESSAGE = "Welcome to Test.";
 
 	public static final String FORUMS = "";
 
