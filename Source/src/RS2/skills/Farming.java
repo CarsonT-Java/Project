@@ -10,13 +10,6 @@ public class Farming {
 
 	private final static int[] VALID_SEEDS = { 5291, 5292, 5293, 5294, 5295, 5296, 5297, 5298, 5299, 5300, 5301, 5302,
 			5303, 5304 };
-<<<<<<< HEAD
-	// private final static int[] FLOWER_SEEDS = { 6453, 6454, 6455, 6456, 6457,
-	// 6458, 6459, 6460 };
-	// private final static int[] FLOWERS = { 2980, 2981, 2982, 2983, 2984,
-	// 2985, 2986, 2987, 2988 };
-=======
->>>>>>> 2609d3c9f851898ac92895250518dc69c53baead
 	private final static int[] HERBS = { 199, 201, 203, 205, 207, 3049, 209, 211, 213, 3051, 215, 2485, 217, 219 };
 	private final static int[] SEED_PLANT_EXP = { 11, 14, 16, 22, 27, 34, 43, 55, 69, 88, 107, 135, 171, 200 };
 	private final static int[] HERB_EXPS = { 13, 15, 18, 24, 31, 39, 49, 62, 78, 99, 120, 152, 192, 225 };
@@ -25,18 +18,9 @@ public class Farming {
 	private final static int PATCH_HERBS = 8143;
 	private final static int PATCH_CLEAN = 8132;
 	private final static int PATCH_WEEDS = 8389;
-<<<<<<< HEAD
-	// private final static int PATCH_FLOWER = 7848;
-	// private final static int PATCH_FLOWERS = 7840;
 	private final static int WATER_CAN = 5340;
 	private final static int RAKE = 5341;
 	private final static int SEED_DIBBER = 5343;
-	// private final static int SPADE = 952;
-=======
-	private final static int WATER_CAN = 5340;
-	private final static int RAKE = 5341;
-	private final static int SEED_DIBBER = 5343;
->>>>>>> 2609d3c9f851898ac92895250518dc69c53baead
 
 	private boolean seedPlanted = false, seedWatered = false, patchRaked = false, patchCleaned = false;
 
