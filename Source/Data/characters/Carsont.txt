@@ -4,8 +4,13 @@ character-password = juneauike2498
 
 [CHARACTER]
 character-height = 0
+<<<<<<< HEAD
 character-posx = 2605
 character-posy = 3092
+=======
+character-posx = 2603
+character-posy = 3090
+>>>>>>> 2609d3c9f851898ac92895250518dc69c53baead
 character-rights = 3
 crystal-bow-shots = 0
 skull-timer = 0
